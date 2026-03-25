@@ -5,17 +5,9 @@
 ° 📚 Estudando Java, Web e Banco de Dados 
 
 ° 📫 Contato: thaisomena136@gmail.com
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaisomena)
-<br/><br/>
-_____________________
-<br>
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisomena&layout=compact&theme=radical"/>
-</p>
-
-_______________
+___________________________
 
 ### 🤖 Tecnologias
 
@@ -40,4 +32,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij
 <img align="left" alt="VSCode" title="Visual Studio Code" width="45px" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
-<br/><br/>
+<br><br>
+<br>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisomena&layout=compact&theme=radical"/>
+</p>
