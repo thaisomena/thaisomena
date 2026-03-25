@@ -11,7 +11,7 @@ ___________________________
 
 ### 🤖 Tecnologias
 
-<img align="left" alt="Java" title="Java" width="45px" style="padding-right: 10px;"
+<img align="left" alt="Java" title="Java" width="55px" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 <img align="left" alt="HTML" title="HTML" width="45px" style="padding-right: 10px;"
